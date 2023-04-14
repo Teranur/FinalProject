@@ -1,2 +1,4 @@
 botbuilder-core>=4.7.0
 aiohttp
+botbuilder-schema>=4.15.0
+botframework-connector>=4.15.0

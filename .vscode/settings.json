@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "CovUniChat"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./CovUniChat",
+        "-p",
+        "*_test.py"
+    ]
+}

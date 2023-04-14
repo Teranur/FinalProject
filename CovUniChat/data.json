@@ -1,0 +1,676 @@
+{
+    "Courses": {
+        "N410": {
+            "name": "Accountancy",
+            "modules": {
+                "PFA": "Principles of Financial Accounting – 20 credits",
+                "PMA": "Principles of Management Accounting – 20 credits",
+                "PF": "Principles of Finance – 20 credits",
+                "MS": "Mathematics and Statistics – 20 credits",
+                "BE": "Business Economics - 20 credits",
+                "ET": "Entrepreneurial Thinking – 20 credits",
+                "FR": "Financial Reporting - 20 credits",
+                "MA": "Management Accounting - 20 credits",
+                "FM": "Financial Management – 20 credits",
+                "PT": "Principles of Taxation – 20 credits",
+                "BLCE": "Business Law and Corporate Ethics- 20 credits",
+                "DRP": "Designing a Research Proposal - 20 credits",
+                "AFR": "Advanced Financial Reporting –20 credits",
+                "AMA": "Advanced Management Accounting – 20 credits",
+                "CIA": "Contemporary Issues in Accounting (Project) - 20 credits",
+                "CFM": "Corporate Financial Management – 20 credits",
+                "BS": "Business Strategy - 20 credits"
+            }
+        },
+        "NN34": {
+            "name": "Accounting and Finance",
+            "modules": {
+                "PFA": "Principles of Financial Accounting – 20 credits",
+                "PMA": "Principles of Management Accounting – 20 credits",
+                "PF": "Principles of Finance – 20 credits",
+                "MS": "Mathematics and Statistics – 20 credits",
+                "BE": "Business Economics - 20 credits",
+                "ET": "Entrepreneurial Thinking – 20 credits",
+                "FR": "Financial Reporting - 20 credits",
+                "MA": "Management Accounting - 20 credits",
+                "FM": "Financial Management – 20 credits",
+                "DRP": "Designing a Research Proposal - 20 credits",
+                "AIS": "Accounting Information System - 20 credits",
+                "FS": "Financial Services - 20 credits",
+                "AMA": "Advanced Management Accounting – 20 credits",
+                "CFM": "Corporate Financial Management – 20 credits",
+                "PD": "Project (Dissertation) - 40 credits"
+            }
+        },
+        "W411": {
+            "name": "Acting for Stage and Screen",
+            "modules": {
+                "ATI": "The Actor's Toolkit: An Introduction - 20 credits",
+                "PS": "The Performer and The Space - 20 credits",
+                "CIC": "The Cultural Industries and Creative Communities - 20 credits",
+                "ATD": "The Actor’s Toolkit: Development - 20 credits",
+                "DPT": "Devising Performance Texts - 20 credits",
+                "PPT": "Performance and Production Technologies - 20 credits",
+                "GS": "Global Shakespeares - 20 credits",
+                "CS_SP": "Contextual Studies: Stage Performance - 20 credits",
+                "DSP": "Directed Stage Performance - 20 credits",
+                "AFC": "Acting for Camera - 20 credits",
+                "CC": "Creative Collaboration - 20 credits",
+                "ENF": "Exploring New Forms of Creative Practice - 20 credits",
+                "ATV": "Actor’s Toolkit: The Actor’s Voice - 20 credits",
+                "CS_S": "Contextual Studies: Screen - 20 credits",
+                "DScP": "Directed Screen Performance - 20 credits",
+                "ATIPI": "Actor’s Toolkit : Preparing for Industry - 20 credits",
+                "FP": "Final Project - 40 credits"
+            }
+        },
+        "H221": {
+            "name": "Architectural Engineering BEng",
+            "modules": {
+                "MBS": "Materials and Building Surveying – 20 credits",
+                "CTES": "Construction Technology and Environmental Sciences – 20 credits",
+                "SDVC": "Spatial Design and Visual Communication – 20 credits",
+                "SAM": "Structural Analysis and Mathematics – 20 credits",
+                "SEDP": "Structural Engineering Design Project – 20 credits",
+                "SE": "Sustainable Environments – 20 credits",
+                "CTAES": "Construction Technology, Assembly and Environmental Systems – 20 credits",
+                "ADBP": "Adaptation Design and Building Pathology – 20 credits",
+                "UDRC": "Urban Design for Resilient Communities – 20 credits",
+                "SAD": "Structural Analysis and Design – 20 credits",
+                "PFCM": "Project, Finance and Contract Management – 20 credits",
+                "SEDS": "Sustainable Environments in Society: Developing Solutions – 20 credits",
+                "IP": "Interdisciplinary Project – 20 credits",
+                "PPCA": "Professional Practice and Contract Administration – 20 credits",
+                "RD": "Research Dissertation – 20 credits",
+                "CAD_DD": "Comprehensive Architectural Project: Design Development – 20 credits",
+                "CAD_DR": "Comprehensive Architectural Project: Design Resolution – 20 credits"
+            }
+        },
+        "K100": {
+            "name": "Architecture BSc",
+            "modules": {
+                "CEF": "Construction and Environmental Fundamentals - 20 credits",
+                "EDC": "Experimental Design and Communication - 40 credits",
+                "SD": "Spatial Design - 30 credits",
+                "MCH": "Material Cultures and Histories - 20 credits",
+                "DS1": "Digital Skills 1 – 10 credits",
+                "AES": "Assembly and Environmental Systems – 20 credits",
+                "UDC": "Urban Design and Communication- 40 credits",
+                "RD": "Residential Design – 30 credits",
+                "ACC": "Architectural and Cultural Critiques – 20 credits",
+                "DS2": "Digital Skills 2 – 10 credits",
+                "DPE": "Design, Planning and Ethics – 30 credits",
+                "CDR": "Contemporary Debates and Research – 20 credits",
+                "ICP": "Interdisciplinary Collaborative Project -10 credits",
+                "CD": "Comprehensive Design – 40 credits",
+                "ACES": "Applied Construction and Environmental Sciences – 20 credits"
+            }
+        },
+        "HG67": {
+            "name": "Aviation Management BSc",
+            "modules": {
+                "FAB": "Foundations of Aviation Business - 20 credits",
+                "AE": "Aviation Ecosystem - 20 credits",
+                "FAEFDA": "Foundation of Aviation Economics Finance and Data Analysis - 20 credits",
+                "APD": "Airport Planning and Design - 20 credits",
+                "FAEFT": "Fundamentals of Aeronautical Engineering and Flight Theory - 20 credits",
+                "IPM": "Introduction to Project Management - 20 credits",
+                "GLC": "Global Logistics and Cargo - 20 credits",
+                "ASSEP": "Aviation Safety, Security and Emergency Planning - 20 credits",
+                "AO": "Airport Operations - 20 credits",
+                "ASOA": "Aviation Safety and Operations Assessment - 0 credits",
+                "AM": "Airline Marketing - 20 credits",
+                "CSM": "Customer Service Management - 20 credits",
+                "NPASD": "Network Planning and Air Service Development - 20 credits",
+                "RMD": "Research Methods and Dissertation Development - 20 credits",
+                "SPMA": "Strategic People Management in Aviation - 20 credits",
+                "ASP": "Airline Scheduling and Planning - 20 credits",
+                "ASF": "Aviation Strategy and Finance - 20 credits",
+                "SA": "Sustainability and Aviation - 20 credits",
+                "AMD": "Aviation Management Dissertation - 20 credits"
+            }
+        },
+        "N310": {
+            "name": "Banking and Finance BSc",
+            "modules": {
+                "PME": "Principles of Microeconomics - 20 credits",
+                "PMA": "Principles of Macroeconomics - 20 credits",
+                "MS": "Mathematics and Statistics - 20 credits",
+                "PF": "Principles of Finance - 20 credits",
+                "BA": "Business Accounting - 20 credits",
+                "ET": "Entrepreneurial Thinking - 20 credits",
+                "DRP": "Designing a Research Proposal – 20 credits",
+                "EDA": "Econometrics and Data Analysis – 20 credits",
+                "FS": "Financial Services – 20 credits",
+                "BR": "Banking Regulation – 20 credits",
+                "PB": "Principles of Banking – 20 credits",
+                "FMI": "Financial Markets and Institutions – 20 credits",
+                "P": "Project - 40 credits",
+                "AIB": "Advanced Issues in Banking – 20 credits",
+                "IRA": "Investment and Risk Analysis – 20 credits",
+                "RMB": "Risk Management in Banking – 20 credits"
+            }
+        },
+        "B940": {
+            "name": "Biomedical Science BSc",
+            "modules": {
+                "HPH": "Human physiology: Homeostasis and Health - 20 credits",
+                "GHE": "Genetics, Heredity and Evolution - 20 credits",
+                "SFAB": "Structure, Function and Analysis of Biomolecules - 20 credits",
+                "CCSF": "Cell Communication, Structure, and Function - 20 credits",
+                "TMW": "The Microbial World - 20 credits",
+                "ATB": "Applied Techniques in Biology - 20 credits",
+                "GBD": "Genetic Basis of Disease - 20 credits",
+                "IDID": "Infectious Disease and Immune Defence - 20 credits",
+                "HBD": "Haematology and Blood Disorders - 20 credits",
+                "CBD": "Cellular Basis of Disease - 20 credits",
+                "MED": "Metabolic and Endocrine Disorders - 20 credits",
+                "BMSPP": "Biomedical Science Professional Practice - 20 credits",
+                "MMV": "Medical Microbiology and Virology - 20 credits",
+                "CBI": "Clinical Biochemistry and Immunology - 20 credits",
+                "CB": "Cancer Biology - 20 credits",
+                "CHTS": "Clinical Haematology and Transfusion Science - 20 credits",
+                "RDBS": "Research Design in Biomedical Science - 20 credits",
+                "IPBS": "Independent Project in Biomedical Science - 20 credits"
+            }
+        },
+        "N221": {
+            "name": "Business Management BA",
+            "modules": {
+                "ET": "Entrepreneurial Thinking - 20 credits",
+                "EI": "Entrepreneurial Ideation - 20 credits",
+                "FOM": "Foundations of Management - 20 credits",
+                "MDSM": "Marketing, Digital and Social Media - 20 credits",
+                "BDUDA": "Business Decision Making using Data Analysis - 20 credits",
+                "OB": "Organisational Behaviour - 20 Credits",
+                "IIP": "Innovation in Practice - 20 credits",
+                "DRP": "Designing a Research Proposal - 20 credits",
+                "PBA": "Principles of Business Accounting - 20 credits",
+                "MPGC": "Managing People in a Global Context - 20 credits",
+                "MC": "Managing Change - 20 credits",
+                "ESE": "Economy, Society and Environment - 20 credits",
+                "FYP": "Final Year Project - 40 credits",
+                "SIA": "Strategy in Action - 20 credits",
+                "EL": "Ethical Leadership - 20 credits",
+                "CM": "2 Choice Modules - 40 credits"
+            }
+        },
+        "G400": {
+            "name": "Computer Science BSc",
+            "modules": {
+                "PCA": "Programming: Concepts and Algorithms - 20 credits",
+                "CS": "Computer Systems - 20 credits",
+                "WWD": "Working with Data - 20 Credits",
+                "MSFP": "Mathematical Skills for Computing Professionals - 20 credits",
+                "PPPP": "Programming: Professional Practice - 20 credits",
+                "IPM": "Integrative Project Module - 20 Credits",
+                "AI": "Artificial Intelligence - 20 credits",
+                "TOC": "Theory of Computation - 20 credits",
+                "AA": "Advanced Algorithms - 20 credits",
+                "OSSN": "Operating Systems, Security, and Networks - 20 credits",
+                "DS": "Data Science - 20 credits",
+                "SE": "Software Engineering - 20 credits",
+                "S": "Security - 20 credits",
+                "ML": "Machine Learning - 20 credits",
+                "PD": "Project Discovery - 20 credits",
+                "DPA": "Dissertation and Project Artefact - 20 credits",
+                "OM": "Optional Module - 20 credits"
+            }
+        },
+        "K200": {
+            "name": "Construction Project Management BSc",
+            "modules": {
+                "MBS": "Materials and Building Surveying – 20 credits",
+                "CTES": "Construction Technology and Environmental Sciences – 20 credits",
+                "SDVC": "Spatial Design and Visual Communication – 20 credits",
+                "PSD": "Professional Skills Development – 20 credits",
+                "PCM": "Project and Cost Management – 20 credits",
+                "SE": "Sustainable Environments – 20 credits",
+                "CTAES": "Construction Technology, Assembly and Environmental Systems – 20 credits",
+                "LBE": "Law for Built Environment Professionals – 20 credits",
+                "PSCM": "Procurement and Supply Chain Management – 20 credits",
+                "COM": "Construction Operations Management – 20 credits",
+                "PFCM": "Project Finance and Contract Management – 20 credits",
+                "SES": "Sustainable Environments in Society: Developing Solutions – 20 credits",
+                "IP": "Interdisciplinary Project – 20 credits",
+                "PPCA": "Professional Practice and Contract Administration – 20 credits",
+                "SCPM": "Strategic Construction Project Management – 20 credits",
+                "CCPM": "Contemporary Construction Project Management in Practice – 20 credits",
+                "ICPM": "Innovative Construction Project Management in Practice – 20 credits",
+                "RD": "Research Dissertation – 20 credits"
+            }
+        },
+        "M930": {
+            "name": "Criminology and Law BA",
+            "modules": {
+                "CS": "Crime and Society - 20 credits",
+                "CB": "Criminal Behaviour - 20 credits",
+                "CJ": "Criminal Justice - 20 credits",
+                "CT": "Crime Typologies - 20 credits",
+                "FMH": "Forensic Mental Health - 20 credits",
+                "LATC": "Legal Approaches to Crime - 20 credits",
+                "RC": "Researching Crime - 20 credits",
+                "V": "Victims and Victimology - 20 credits",
+                "CL": "Criminal Law - 20 credits",
+                "PLS": "Practical Legal Skills - 20 credits",
+                "PS": "Policing and Society - 20 credits",
+                "PC": "Punishment and Control - 20 credits",
+                "GOC": "Global Organised Crime - 20 credits",
+                "VE": "Violence and Exploitation - 20 credits",
+                "CA": "Criminal Advocacy - 20 credits",
+                "LE": "Law of Evidence - 20 credits",
+                "RPC": "Research Project in Criminology - 40 credits"
+            }
+        },
+        "B410": {
+            "name": "Dietetics BSc",
+            "modules": {
+                "HNM": "Human Nutrition and Metabolism - 20 credits",
+                "FEIP": "Foundations of Evidence-Informed Practice - 20 credits",
+                "FFP": "Food and Food Production - 10 credits",
+                "NPEB": "Nutrition, Physiology and Eating Behaviour - 30 credits",
+                "HWC": "Health and Wellbeing in the Community - 20 credits",
+                "FDP": "Foundation in Dietetic Practice (Including Placement A) - 20 credits",
+                "NEDM": "Neurology and Ethical Decision-Making - 30 credits",
+                "LMD": "Lifestyle Management of Diseases - 20 credits",
+                "GES": "Gastrointestinal and Excretory Systems - 30 credits",
+                "PND": "Paediatric Nutrition and Dietetics - 20 credits",
+                "CCH": "Critical Care and Hypermetabolism - 10 credits",
+                "DEIP": "Developing Evidence-Informed Practice - 10 credits",
+                "DDPB": "Developing Dietetic Practice: Placement B - 30 credits",
+                "CDPC": "Consolidating Dietetic Practice: Placement C - 30 credits",
+                "DPD": "Dietetic Practice in Workplace Settings: Placement D - 20 credits",
+                "LMP": "Leadership and Management for Healthcare Professionals - 20 credits",
+                "EBRP": "Evidence Based Research Project - 20 credits"
+            }
+        },
+        "L100": {
+            "name": "Economics BSc",
+            "modules": {
+                "PME": "Principles of Microeconomics - 20 credits",
+                "PMA": "Principles of Macroeconomics - 20 credits",
+                "MS": "Mathematics and Statistics - 20 credits",
+                "PF": "Principles of Finance - 20 credits",
+                "BA": "Business Accounting - 20 credits",
+                "ET": "Entrepreneurial Thinking - 20 credits",
+                "IE": "International Economics – 20 credits",
+                "EET": "Evolution of Economic Thinking – 20 credits",
+                "IM": "Intermediate Microeconomics - 20 credits",
+                "IMA": "Intermediate Macroeconomics – 20 credits",
+                "EDA": "Econometrics and Data Analysis – 20 credits",
+                "DRP": "Designing a Research Proposal – 20 credits",
+                "AMGT": "Advanced Microeconomics – Game Theory – 20 credits",
+                "AMTP": "Advanced Macroeconomics – Theory and Policy – 20 credits",
+                "P": "Project – 40 credits",
+                "OM": "Optional Module - 20 credits"
+            }
+        },
+        "QW38": {
+            "name": "English and Creative Writing BA",
+            "modules": {
+                "LLWT": "Language, Literature and Writing Through Time - 20 credits",
+                "KCEL": "Key Concepts in English and Languages - 20 credits",
+                "RM": "Research Methods - 20 credits",
+                "DW": "Digital Worlds - 20 credits",
+                "SPRG": "Space, Place, Regionalisms, Globalisms - 20 credits",
+                "GPZ": "Group Project: Make a ‘Zine! - 20 credits",
+                "PSP": "Poetry, Songwriting and Performance - 20 credits",
+                "SSW": "Short Story Workshop - 20 credits",
+                "AR": "Age of Revolutions - 20 credits",
+                "LS": "Language and Society - 20 credits",
+                "S": "Stylistics - 20 credits",
+                "MPM": "Modernisms and Postmodernisms - 20 credits",
+                "IVGN": "Interactive and Video Game Narratives - 20 credits",
+                "GS": "Graphic Storytelling - 20 credits",
+                "GFT": "The Gothic: Literature, Film and Television - 20 credits",
+                "FP": "Final Project - 40 credits",
+                "LG": "Language and Globalisation - 20 credits",
+                "SF": "Speculative Fiction - 20 credits",
+                "EC": "The Existential Café: Ethics in a Coffee Cup - 20 credits",
+                "SMIA": "Screenwriting and Moving Image Aesthetics - 20 credits"
+            }
+        },
+        "GG45": {
+            "name": "Ethical Hacking and Cyber Security BSc",
+            "modules": {
+                "CSF": "Cyber Security Fundamentals – 20 credits",
+                "IP": "Introduction to Programming – 20 credits",
+                "NCA": "Networking and Computer Architectures – 20 credits",
+                "ISM": "Information Security Management – 20 credits",
+                "ELF": "Ethics and Legal Frameworks of Cyber Security professionals – 20 credits",
+                "FCS": "Foundations of Computer Science – 20 credits",
+                "PPT": "Practical Penetration Testing – 20 credits",
+                "POS": "Programming and Operating Systems – 20 credits",
+                "FN": "Foundations of Networking – 20 credits",
+                "SO": "Security Operations – 20 credits",
+                "DF": "Digital Forensics – 20 credits",
+                "IWT": "The Internet and Web Technologies – 20 credits",
+                "APT": "Advanced Penetration Testing – 20 credits",
+                "DSRAM": "Digital Security Risk and Audit Management – 20 credits",
+                "AC": "Applied Cryptography – 20 credits",
+                "RPP": "Research Project Preparation – 20 credits",
+                "RPD": "Research Project Delivery – 20 credits",
+                "OM": "Optional modules - 20 credits"
+            }
+        },
+        "N821": {
+            "name": "Event Management BA",
+            "modules": {
+                "ET": "Entrepreneurial Thinking - 20 credits",
+                "EI": "Entrepreneurial Ideation - 20 credits",
+                "BDDA": "Business Decision-Making Using Data Analysis - 20 credits",
+                "FM": "Foundations of Management - 20 credits",
+                "OB": "Organisation Behaviour - 20 credits",
+                "MDSM": "Marketing, Digital and Social Media - 20 credits",
+                "IIP": "Innovation in Practice - 20 credits",
+                "DRP": "Designing a Research Proposal - 20 credits",
+                "PMES": "Project Management in Events and Sport - 20 credits",
+                "OMSE": "Operations Management in Sport and Events - 20 credits",
+                "EFPP": "Event Funding, Policy and Promotion - 20 credits",
+                "ED": "Experience Design - 20 credits",
+                "P": "Project - 40 credits",
+                "IEM": "International Event Management - 20 credits",
+                "CIEE": "Contemporary Issues in Entertainment and Experience - 20 credits",
+                "OOM": "2 Optional Modules - 40 credits"
+            }
+        },
+        "WN25": {
+            "name": "Fashion BA",
+            "modules": {
+                "FC": "Fashion Communities - 20 credits",
+                "FF": "Fashion Futures - 20 credits",
+                "RF": "Reshaping Fashion - 20 credits",
+                "DP": "Disruptive Practice - 20 credits",
+                "FA": "Fashion Activators - 20 credits",
+                "CR": "Creative Revolutions - 20 credits",
+                "FE": "Fashion Enterprise - 20 credits",
+                "FI": "Fashion Innovation - 20 credits",
+                "FFIR": "Fashion Futures: Industry Ready - 20 credits",
+                "IFE": "International Fashion Exploration - 20 credits",
+                "DS": "Developing Specialisms - 20 credits",
+                "FS": "Fashion Statement - 20 credits",
+                "FFC": "Future Fashion Concepts - 20 credits",
+                "FFI": "Future Fashion Ideation - 20 credits",
+                "FFGR": "Fashion Futures: Graduate Ready - 20 credits",
+                "FFR": "Future Fashion Realisation - 60 credits"
+            }
+        },
+        "PP53": {
+            "name": "Journalism BA",
+            "modules": {
+                "MT": "The Media Toolkit - 20 credits",
+                "PC": "Power and Conflict - 20 credits",
+                "IN": "The Ideas Network - 20 credits",
+                "CS": "Creating Stories - 20 credits",
+                "AI": "Audiences and Influences - 20 credits",
+                "BE": "The Big Event - 20 credits",
+                "MNP": "Multimedia News Production - 20 credits",
+                "MLA": "Media Law in Action - 20 credits",
+                "BN": "Being a Journalist; Professional Networking - 20 credits",
+                "FTS": "Future Trends in Storytelling - 20 credits",
+                "WPR": "The World of Public Relations - 20 credits",
+                "CC": "Creative Collaboration - 20 credits",
+                "RPNR": "Running a Professional Newsroom - 20 credits",
+                "IDI": "Investigation, Documentary and Innovation - 20 credits",
+                "MP": "Major Project - 40 credits",
+                "OM": "Optional modules - 20 credits"
+            }
+        },
+        "G100": {
+            "name": "Mathematics BSc",
+            "modules": {
+                "C": "Calculus - 20 Credits",
+                "A": "Algebra - 20 Credits",
+                "P1": "Programming 1: Concepts and Algorithms - 20 Credits",
+                "PS": "Probability and Statistics - 20 Credits",
+                "MNM": "Mechanics and Numerical Methods - 20 Credits",
+                "MCS": "Mathematical Case Studies - 20 Credits",
+                "FCCA": "Further Calculus and Complex Analysis - 20 credits",
+                "LADE": "Linear Algebra and Differential Equations - 20 Credits",
+                "GR": "Groups and Rings - 20 Credits",
+                "PDEAM": "Partial Differential Equations and Analytical Mechanics - 20 Credits",
+                "RA": "Real Analysis - 20 Credits",
+                "LSM": "Linear Statistical Models - 20 Credits",
+                "NTC": "Number Theory and Cryptography - 20 Credits",
+                "ATM": "Advanced Topics in Mathematics - 20 Credits",
+                "FD": "Fluid Dynamics - 20 Credits",
+                "P": "Project - 20 credits",
+                "OM": "Optional Modules - 20 credits"
+            }
+        },
+        "W374": {
+            "name": "Music and Audio Production BSc",
+            "modules": {
+                "IMPS": "Introduction to Music Production and Songwriting - 20 credits",
+                "MSM": "Music and Sound Making - 20 credits",
+                "MCC": "Music, Culture, and Context - 20 credits",
+                "GMM": "Global Music Marketplace - 20 credits",
+                "SM": "Studio Music - 20 credits",
+                "LM": "Live Music - 20 credits",
+                "SDFX": "Sound design and FX - 20 credits",
+                "GA": "Game Audio - 20 credits",
+                "SC": "Sound craft – Mixing and Mastering - 20 credits",
+                "MMI": "Music and the Moving Image - 20 credits",
+                "CC": "Creative Coding - 20 credits",
+                "CLB": "Creative collaboration - 20 credits",
+                "AMP": "Advanced Music Production - 20 credits",
+                "ACC": "Advanced Creative Coding - 20 credits",
+                "SA": "Spatial Audio - 20 credits",
+                "YAOB": "You are your own Brand - 20 credits",
+                "MP": "Major Project - 40 credits"
+            }
+        },
+        "V500": {
+            "name": "Philosophy BA",
+            "modules": {
+                "LUE": "Life, the Universe and Everything - 20 credits",
+                "HHG": "A Hitchhiker’s Guide to Modern Philosophy - 20 credits",
+                "TOT": "Thinkers on Trial: The Life and Death of Ideas - 20 credits",
+                "ECC": "Ethics of Climate Change and Interspecies Thriving - 20 credits",
+                "PM": "Philosophical Methods - 20 credits",
+                "CPP": "Creative Philosophy Project - 20 credits",
+                "AF": "Alternative Facts: Logic and Reason in a ‘Post-Truth’ World - 20 credits",
+                "ECJ": "Ecophilosophies and Climate Justice - 20 credits",
+                "FFF": "Fierce Feminist Figureheads - 20 credits",
+                "MW": "Mediated Worlds - 20 credits",
+                "PGS": "Philosophy of Gender and Sexuality - 20 credits",
+                "ELPS": "Experience and Language: Propositions and Signs - 20 credits",
+                "DP": "Disabling Philosophy - 20 credits",
+                "EC": "The Existentialist Café: Ethics in a Coffee Cup - 20 credits",
+                "SF": "Speculative Fiction - 20 credits",
+                "LS": "The Lunar Society: Philosophy of the Midlands - 20 credits",
+                "SO": "Stubborn Objects: New Materialisms and Flat Ontologies - 20 credits",
+                "ANR": "Are Numbers Real? - 20 credits",
+                "ELCM": "Enlightenment: Literature, Culture, Modernity - 20 credits",
+                "FP": "Final Project - 40 credits"
+            }
+        },
+        "C800": {
+            "name": "Psychology BSc",
+            "modules": {
+                "PPP": "Professional Practice in Psychology - 20 credits",
+                "FCP": "Fundamental concepts in Psychology - 20 credits",
+                "IQR": "Introducing Quantitative Research Methods - 20 credits",
+                "PPC": "Psychology and Popular Culture - 20 credits",
+                "PMHW": "Psychology of Mental Health and Wellbeing - 20 credits",
+                "IQR2": "Introducing Qualitative Research Methods - 20 credits",
+                "PP": "Perspectives in Psychology - 20 credits",
+                "PCGS": "Psychology of Culture, Gender and Sexuality - 20 credits",
+                "CP": "Cyberpsychology - 20 credits",
+                "APP": "Applying Psychological Perspectives - 20 credits",
+                "DSP": "The Darker Side of Psychology - 20 credits",
+                "RMP": "Research Methods and Project Planning - 20 credits",
+                "PDE": "Project Design and Ethics - 20 credits",
+                "IRP": "Independent Research Project - 20 credits",
+                "BP": "Becoming a Psychologist - 20 credits",
+                "OM": "Optional Modules - 20 credits"
+            }
+        },
+        "L300": {
+            "name": "Sociology BA",
+            "modules": {
+                "US": "Understanding Society - 20 credits",
+                "CDSC": "Crime, Disorder and Social Control - 20 credits",
+                "FSSS": "Fundamentals for Study and Social Science - 20 credits",
+                "DD": "Diversity and Divisions - 20 credits",
+                "MPC": "Media and Popular Culture - 20 credits",
+                "SPSC": "Social Policy and Social Change - 20 credits",
+                "TACST": "Traditions and Controversies in Social Theory - 20 credits",
+                "RSL": "Researching Social Life - 20 credits",
+                "21CL": "21st Century Lifestyles - 20 credits",
+                "BS": "Body/Self - 20 credits",
+                "PA": "Political Activism #TheAgeOfEmpowerment - 20 credits",
+                "FR": "Families and Relationships - 20 credits",
+                "FP": "Final Project - 40 credits",
+                "LS": "The Lunar Society: Philosophy of the Midlands - 20 credits",
+                "RR": "Race and Racism - 20 credits",
+                "GS": "Gender and Society - 20 credits",
+                "DS": "Disability in Society - 20 credits",
+                "SSPO": "Sex, Sexuality, Power and Oppression - 20 credits",
+                "SMDW": "Social Media and Digital Worlds - 20 credits",
+                "PP": "Punishment and Penology - 20 credits"
+            }
+        },
+        "G600": {
+            "name": "Software Engineering BSc",
+            "modules": {
+                "PCA": "Programming: Concepts and Algorithms - 20 Credits",
+                "CS": "Computer Systems - 20 Credits",
+                "WD1": "Working with Data - 20 Credits",
+                "MSfCP": "Mathematical Skills for Computing Professionals - 20 Credits",
+                "PPP": "Programming: Professional Practice - 20 Credits",
+                "IPM": "Integrative Project Module - 20 Credits",
+                "WD2": "Web Development - 20 credits",
+                "PC": "People and Computing - 20 credits",
+                "AA": "Advanced Algorithms - 20 Credits",
+                "DS": "Data Science - 20 Credits",
+                "SE": "Software Engineering - 20 Credits",
+                "SAD": "System Analysis and Design - 20 credits",
+                "WAD": "Web API Development - 20 Credits",
+                "SEC": "Security - 20 Credits",
+                "UXD": "User Experience Design - 20 Credits",
+                "PM": "Pathway Modules - 40 credits",
+                "OM": "Optional Modules - 20 credits"
+            }
+        }
+    },
+    "history": {
+        "1843": "The Coventry School of Design was founded, providing vocational and applied art education to the people of Coventry.",
+        "1852": "The Coventry School of Design was renamed the Coventry School of Art.",
+        "1902": "The Coventry School of Art merged with the Coventry Technical Institute, which was founded in 1887.",
+        "1930": "The Coventry College of Art and the Coventry Technical College were separated into two different institutions.",
+        "1966": "Lanchester College of Technology (formerly Coventry Technical College) was awarded university status and renamed Lanchester Polytechnic.",
+        "1987": "Lanchester Polytechnic was renamed Coventry Polytechnic.",
+        "1992": "Coventry Polytechnic was granted university status under the Further and Higher Education Act and became Coventry University.",
+        "2018": "The Alison Gingell Building, a state-of-the-art healthcare simulation and super-lab facility, was opened by the Duke and Duchess of Cambridge.",
+        "2020": "The Beatrice Shilling Building, providing additional teaching and learning facilities for the Faculty of Engineering, Environment and Computing, was completed.",
+        "2021": "Coventry University was ranked 15th in the Guardian University Guide, reflecting a steady rise in national league tables over the past decade."
+    },
+    "buildings": {
+        "alison_gingell_building": {
+            "name": "Alison Gingell Building",
+            "postcode": "CV1 2DS",
+            "description": "Opened by the Duke and Duchess of Cambridge in January 2018, this is a modern multidisciplinary facility housing new healthcare simulation, research and ‘super-lab’ environments. It enables students to learn to care for patients at every stage of their healthcare experience; from ambulance and hospital treatment, through to physical and mental rehabilitation. It is named in memory of Alison Gingell, a city councillor who was at the forefront of health and social care in Coventry and Warwickshire for more than 40 years."
+        },
+        "alma_building": {
+            "name": "Alma Building",
+            "postcode": "CV1 5QA",
+            "description": "This was built in the 1920s and is used by Estates and ITS. It is the former site of the Singer Works, from which both the Singer Penny Farthing and Coventry City Football Club can trace their origins."
+        },
+        "beatrice_shilling_building": {
+            "name": "Beatrice Shilling Building",
+            "postcode": "CV1 5JH",
+            "description": "Completed in 2020, this state-of-the-art building provides an additional range of teaching and learning facilities for students, including a VR gaming studio, specialist PC labs and an array of multi-purpose engineering labs and workshops. Joined to the Faculty of Engineering, Environment and Computing’s existing teaching block via a covered bridge, this first-class addition to the university has been commended for its quality and functionality at the West Midlands Constructing Excellence Awards 2020, winning the value category."
+        },
+        "charles_ward_building": {
+            "name": "Charles Ward Building",
+            "postcode": "CV1 5FD",
+            "description": "Built in the 1950s, this is used mainly by our Faculty of Health and Life Sciences. The building was named after a key figure for the university, Charles Ward, who became Vice Chair of the Board of Governors in 1982."
+        },
+        "ellen_terry_building": {
+            "name": "Ellen Terry Building",
+            "postcode": "CV1 5RW",
+            "description": "This is used by our Faculty of Arts and Humanities, specifically for the performing arts, media and music courses. Built in 1880, the art deco building underwent a major refurbishment in 2000. Fittingly, it was previously a cinema, and is named after Dame Ellen Terry, a star of the Victorian stage and a leading Shakespearean actress."
+        },
+        "engineering_computing_building": {
+            "name": "Engineering & Computing Building",
+            "postcode": "CV1 2JH",
+            "description": "Our Engineering, Environment and Computing Building (EEC), was completed in 2012. It uses a range of sustainable technologies, including rainwater harvesting, solar thermal energy and biomass boilers. Facilities include a precision wind-tunnel, a high-performance engineering centre, a Harrier Jump Jet and three flight simulators."
+        },
+        "george_eliot_building": {
+            "name": "George Eliot Building",
+            "postcode": "CV1 5FB",
+            "description": "Built in 1960 and fully refurbished in recent years, this building provides modern teaching and learning spaces for both Coventry Law School and the Faculty of Arts and Humanities. It is named after George Eliot, which was the pen"
+        },
+        "graham_sutherland_building": {
+            "name": "Graham Sutherland Building",
+            "postcode": "CV1 5PH",
+            "description": "Built in 1959, this building is currently undergoing an extensive internal redevelopment. Once completed, it will continue to be used by the Faculty of Arts and Humanities, predominantly by design and visual art students. It is aptly named after the painter and printmaker Graham Sutherland, who created the world-famous tapestry ‘Christ in Glory’ in Coventry Cathedral which, at 23x12m, is reputedly the largest continuously woven tapestry in the world."
+            },
+        "the_hub": {
+            "name": "TheHub",
+            "postcode": "CV1 5FB",
+            "description": "Completed in 2011, TheHub is a modern, hi-tech building providing a welcoming social space for our students. Facilities in the building include a doctors’ surgery, a multi-cultural faith centre, employment services and catering services, as well as a hairdresser, food court and the Students’ Union offices. It has fully licensed function spaces and bars, a multi-purpose venue hosting regular music and film events, and a new restaurant, The Courtyard, which opened in 2019. The building holds a BREEAM status of Excellent – the world’s leading sustainability assessment method."
+            },
+        "jaguar_building": {
+            "name": "Jaguar Building",
+            "postcode": "CV1 5DL",
+            "description": "Built in the late 1970s, this building is sponsored by Jaguar Land Rover, the Coventry-based car manufacturer, and recently underwent a significant refurbishment. It is home to our postgraduate students, as well as our researchers within the Centre for Business in Society (CBiS)."
+            },
+        "sir_john_laing_building": {
+            "name": "Sir John Laing Building",
+            "postcode": "CV1 2LT",
+            "description": "This building is primarily used by the Faculty of Engineering, Environment and Computing, offering courses relating to the construction sector. It was built in 1970, and is named after Sir John Laing, a British entrepreneur in the construction industry."
+            },
+        "frederick_lanchester_library": {
+            "name": "Frederick Lanchester Library",
+            "postcode": "CV1 5DD",
+            "description": "This striking building houses the main university library. It was opened in 2001, and in 2019 was upgraded to bring together all elements of academic support into one location, with a new entrance, café and collaboration spaces on the ground floor. It is named after Frederick Lanchester, the Coventry-based designer of the first British petrol-driven car. It is equipped with more than 350 computers, group and individual study rooms, books, journals, and electronic resources across five floors. It also includes the Lanchester Interactive Archive, the largest and fully digitalised archive of the life and work of Frederick Lanchester."
+            },
+        "maurice_foss_building": {
+            "name": "Maurice Foss Building",
+            "postcode": "CV1 5PH",
+            "description": "Built in 1978, this building is currently undergoing an extensive internal redevelopment. Once completed, it will continue to be used by the Faculty of Arts and Humanities, primarily for industrial design courses. The building is named after Maurice Foss, the former Deputy Director of Coventry Polytechnic and one of the university’s Honorary Life Fellows."
+            },
+        "mile_lane_building": {
+            "name": "Mile Lane",
+            "address": "CV1 2TU",
+            "description": "This is a new bespoke campus for CU Coventry, which offers Coventry University degrees through a unique and flexible education model designed to fit around the lives of students. It opened in 2019 and provides a cutting-edge learning environment for collaboration, creativity and innovation. The building has energy-efficient features, with student having access to on-site parking and catering facilities."
+            },
+        "multi-storey_car_park": {
+            "name": "Multi-Storey Car Park",
+            "address": "CV1 5DE",
+            "description": "This is our impressive multi-storey car park, opened for staff and visitors in 2010. It has 457 spaces over 15 floors, including spaces for electric vehicles."
+          },
+        "priory_building": {
+            "name": "Priory Building",
+            "address": "CV1 5FB",
+            "description": "Built in 1964, this is occupied by the Cambridge Education Group, which runs its Coventry foundation campus from here, offering university pathway courses for overseas students who wish to gain entry to UK universities. The building also houses a large sports hall."
+          },
+        "richard_crossman_building": {
+            "name": "Richard Crossman building",
+            "address": "CV1 5RW",
+            "description": "This was built in 1971 and is named after the political journalist and Labour politician Richard Crossman, who represented Coventry East from 1945 to 1974. It is used by the Faculty of Health and Life Sciences, primarily for psychology, criminology and social sciences subjects, and includes mock prison cells and psychology labs."
+          },
+        "student_centre": {
+            "name": "Student Centre",
+            "address": "CV1 2JH",
+            "description": "Opened in 2006, the centre is home to many of our key student services as well as our International Office. This is where our students enrol and is also a main information point for student accommodation and finance queries."
+          },
+        "whitefriars_building": {
+            "name": "Whitefriars",
+            "address": "CV1 2DS",
+            "description": "This is a hub of offices and shops, and includes the Inkwell, the Printshop, as well as the Enterprise Hub. There is a suite of small offices above these units Built in 1922, its name is drawn from the Carmelite Friary founded in 1342 in Coventry."
+          },
+        "sir_william_lyons_building":  {
+            "name": "Sir William Lyons building",
+            "address": "CV1 5DL",
+            "description": "Constructed in 1980, this building is currently the home of the Student Engagement Centre team and a few small research units. It is named after Sir William Lyons, the co-founder of the Swallow Sidecar Company, which subsequently became Jaguar Cars."
+          },
+        "william_morris_building":  {
+            "name": "William Morris building",
+            "address": "CV1 5DL",
+            "description": "Built by French company Hotchkiss and Cie in 1917 to make machine guns, this building was later bought by the Morris car company for engine works. Coventry pioneered car production and this building, now the William Morris, is home to our Coventry Business School."
+          }
+        }
+}
