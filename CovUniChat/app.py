@@ -4,7 +4,6 @@
 import sys
 import traceback
 from datetime import datetime
-
 from aiohttp import web
 from aiohttp.web import Request, Response, json_response
 from botbuilder.core import (
@@ -12,10 +11,11 @@ from botbuilder.core import (
     TurnContext,
     BotFrameworkAdapter,
 )
+
 from botbuilder.core.integration import aiohttp_error_middleware
 from botbuilder.schema import Activity, ActivityTypes
-
-from bot import MyBot
+from botbuilder.core import MemoryStorage, UserState, ConversationState
+from bot import CovUniChatBot
 from config import DefaultConfig
 
 CONFIG = DefaultConfig()
@@ -57,7 +57,9 @@ async def on_error(context: TurnContext, error: Exception):
 ADAPTER.on_turn_error = on_error
 
 # Create the Bot
-BOT = MyBot()
+conversation_state = ConversationState(MemoryStorage())
+user_state = UserState(MemoryStorage())
+BOT = CovUniChatBot(conversation_state, user_state)
 
 
 # Listen for incoming requests on /api/messages
