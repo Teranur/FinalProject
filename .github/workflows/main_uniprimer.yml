@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'UniPrimer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AB5A0937C4F4D42937F2DF6348FB2D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8605999593346879AD102484139BE4B }}
