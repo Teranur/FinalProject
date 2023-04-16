@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CovUniPrimer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A300547F76354BF28BD68725D42C075F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C557A28D6E34ED2AD528795DBAB14E0 }}
