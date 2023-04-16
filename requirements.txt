@@ -5,3 +5,4 @@ botbuilder-schema
 botbuilder-integration-aiohttp
 requests
 msrest
+msal
