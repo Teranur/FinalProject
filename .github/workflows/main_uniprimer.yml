@@ -1,3 +1,7 @@
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
+# More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
+
 name: Build and deploy Python app to Azure Web App - UniPrimer
 
 on:
@@ -16,20 +20,13 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v1
         with:
-          python-version: '3.9'
-
-      - name: Install MSRest
-        run: pip install msrest
-
-      - name: Install MSAL
-        run: pip install msal
+          python-version: '3.11'
 
       - name: Create and start virtual environment
         run: |
           python -m venv venv
           source venv/bin/activate
       
-
       - name: Install dependencies
         run: pip install -r requirements.txt
         
@@ -63,4 +60,4 @@ jobs:
         with:
           app-name: 'UniPrimer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BFE460DBFEA485E98DBAE8D24F4C3E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E580E379B98D42CE9C75774A56EFB939 }}
