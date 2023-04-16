@@ -29,6 +29,10 @@ jobs:
           python -m venv venv
           source venv/bin/activate
       
+      - name: Ignore MSAL and MSRest in virtual environment
+        run: |
+          echo 'export PYTHONPATH=$(echo $PYTHONPATH | tr ":" "\n" | grep -v "msal" | grep -v "msrest" | tr "\n" ":")' >> venv/bin/activate
+
       - name: Install dependencies
         run: pip install -r requirements.txt
         
