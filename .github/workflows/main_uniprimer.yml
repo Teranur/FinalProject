@@ -22,16 +22,18 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install MSRest
-        run: pip install msrest
 
-      - name: Install MSAL
-        run: pip install msal
 
       - name: Create and start virtual environment
         run: |
           python -m venv venv
           source venv/bin/activate
+          
+      - name: Install MSRest
+        run: pip install msrest
+
+      - name: Install MSAL
+        run: pip install msal
 
       - name: Install dependencies
         run: pip install --ignore-installed msal msrest -r requirements.txt
