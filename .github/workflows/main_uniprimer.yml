@@ -20,16 +20,22 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v1
         with:
-          python-version: '3.11'
+          python-version: '3.9'
+
+      - name: Install MSRest
+        run: pip install msrest
+
+      - name: Install MSAL
+        run: pip install msal
 
       - name: Create and start virtual environment
         run: |
           python -m venv venv
           source venv/bin/activate
-      
+
       - name: Install dependencies
-        run: pip install -r requirements.txt
-        
+        run: pip install --ignore-installed msal msrest -r requirements.txt
+
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
       - name: Upload artifact for deployment jobs
@@ -60,4 +66,4 @@ jobs:
         with:
           app-name: 'UniPrimer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E580E379B98D42CE9C75774A56EFB939 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BFE460DBFEA485E98DBAE8D24F4C3E7 }}
