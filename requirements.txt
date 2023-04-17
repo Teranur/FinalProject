@@ -1,7 +1,5 @@
-aiohttp
-botbuilder-core
-botbuilder-dialogs
-botbuilder-schema
-botbuilder-integration-aiohttp
-requests
+botbuilder-core==4.15.0
+botbuilder-dialogs==4.15.0
+botbuilder-schema==4.15.0
+requests==2.26.0
 
