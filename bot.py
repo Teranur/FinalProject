@@ -13,6 +13,12 @@ from botbuilder.schema import Attachment
 from CustomDialogState import CustomDialogState
 
 
+class CustomDialogState(dict):
+    def __init__(self, *args, **kwargs):
+        super(CustomDialogState, self).__init__(*args, **kwargs)
+        self.dialog_stack = []
+
+
 class CovUniChatBot(ActivityHandler):
     def __init__(self, conversation_state, user_state):
         self.conversation_state = conversation_state
