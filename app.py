@@ -11,13 +11,11 @@ from botbuilder.integration.aiohttp import BotFrameworkHttpAdapter
 from bot2 import SearchBot
 from bot import CovUniChatBot
 
-# Load settings
-app_id = "c292f96e-db6f-4937-b0e8-069df21108cc"
-app_password = "B_I8Q~OnUAAlZM5C5JpuCFjQJ.Umu-NiZn9KscB1"
+
 
 # Create adapter
-settings = BotFrameworkAdapterSettings(app_id, app_password)
-adapter = BotFrameworkHttpAdapter(settings)
+SETTINGS = BotFrameworkAdapterSettings(CONFIG.APP_ID, CONFIG.APP_PASSWORD)
+ADAPTER = BotFrameworkAdapter(SETTINGS)
 
 # Create memory storage
 memory = MemoryStorage()
