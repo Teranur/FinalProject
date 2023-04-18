@@ -28,7 +28,7 @@ user_state = UserState(memory)
 
 # Create bot
 #BOT = CovUniChatBot()
-Bot = SearchBot(conversation_state, user_state)
+BOT = SearchBot(conversation_state, user_state)
 
 
 async def messages(req: web.Request) -> web.Response:
