@@ -13,7 +13,7 @@ from bot import CovUniChatBot
 
 # Load settings
 app_id = "c292f96e-db6f-4937-b0e8-069df21108cc"
-app_password = "8496f60a-b17b-46c8-97fe-04603bd8efa6"
+app_password = "B_I8Q~OnUAAlZM5C5JpuCFjQJ.Umu-NiZn9KscB1"
 
 # Create adapter
 settings = BotFrameworkAdapterSettings(app_id, app_password)
