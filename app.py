@@ -57,9 +57,8 @@ async def on_error(context: TurnContext, error: Exception):
 ADAPTER.on_turn_error = on_error
 
 # Create the Bot
-conversation_state = ConversationState(MemoryStorage())
-user_state = UserState(MemoryStorage())
-BOT = CovUniChatBot(conversation_state, user_state)
+
+BOT = CovUniChatBot()
 
 
 # Listen for incoming requests on /api/messages
